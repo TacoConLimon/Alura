@@ -1,2 +1,0 @@
-# Alura
-Proyectos - Actividades - Challenges
